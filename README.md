@@ -16,5 +16,5 @@ Este projeto tem como objetivo dar os conceitos básicos da Plataforma Databrick
 - [Criação do Workspace Databricks com Terraform](99-configurar-databricks-aws.md)
 
 ## Help
-- (Externo) [Desenvolva código em notebook](https://docs.databricks.com/pt/notebooks/notebooks-code.html)
-- (Externo) [Usar o depurador interativo](https://docs.databricks.com/pt/notebooks/debugger.html)
+- (Externo: Databricks) [Desenvolva código em notebook](https://docs.databricks.com/pt/notebooks/notebooks-code.html)
+- (Externo: Databricks) [Usar o depurador interativo](https://docs.databricks.com/pt/notebooks/debugger.html)
