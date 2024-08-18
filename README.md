@@ -10,6 +10,7 @@ Este projeto tem como objetivo dar os conceitos básicos da Plataforma Databrick
 
 - Exercícios
   - [Exemplo simples de ETL.html](notebooks%2FExemplo%20simples%20de%20ETL.html)
+  - [Referência dbutils.html](notebooks%2FRefer%C3%AAncia%20dbutils.html)
 
 ## Bônus
 - [Criação do Workspace Databricks com Terraform](99-configurar-databricks-aws.md)
