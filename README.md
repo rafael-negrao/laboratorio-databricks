@@ -6,6 +6,7 @@ Este projeto tem como objetivo dar os conceitos básicos da Plataforma Databrick
 - [Criação da conta gratuíta Databricks](00-passo-a-passo.md)
 - [Introdução ao Databricks](01-introducao.md)
 - [A Arquitetura Databricks](02-arquitetura.md)
+- (Externo: Databricks) [Data Lakehouse](https://www.databricks.com/glossary/data-lakehouse)
 - [Navegação inicial pela interface do Databricks](03-navegacao-inicial.md)
 
 - Exercícios
