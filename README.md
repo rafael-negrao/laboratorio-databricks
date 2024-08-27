@@ -8,10 +8,7 @@ Este projeto tem como objetivo dar os conceitos básicos da Plataforma Databrick
 - [A Arquitetura Databricks](02-arquitetura.md)
 - (Externo: Databricks) [Data Lakehouse](https://www.databricks.com/glossary/data-lakehouse)
 - [Navegação inicial pela interface do Databricks](03-navegacao-inicial.md)
-
-- Exercícios
-  - [Exemplo simples de ETL.html](notebooks%2FExemplo%20simples%20de%20ETL.html)
-  - [Referência dbutils.html](notebooks%2FRefer%C3%AAncia%20dbutils.html)
+- [Exercícios](04-exercicios.md)
 
 ## Bônus
 - [Criação do Workspace Databricks com Terraform](99-configurar-databricks-aws.md)
