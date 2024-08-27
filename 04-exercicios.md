@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/rafael-negrao/laboratorio-databricks/main/note
 ```
 - **Matplotlib**
 ```
-https://raw.githubusercontent.com/rafael-negrao/laboratorio-databricks/main/notebooks/notebooks/matplotlib.ipynb
+https://raw.githubusercontent.com/rafael-negrao/laboratorio-databricks/main/notebooks/matplotlib.ipynb
 ```
 
 
